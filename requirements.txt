@@ -1,5 +1,5 @@
 blinker==1.4
-Flask==0.10.1
+Flask==2.3.2
 Flask-DebugToolbar==0.10.0
 Flask-SQLAlchemy==2.1
 geopy==1.11.0
